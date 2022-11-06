@@ -1,0 +1,14 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.exe
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.runtimeconfig.dev.json
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\bin\Debug\netcoreapp3.1\Implicit,Explicit,Generics.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Implicit,explicit,generics\Implicit,Explicit,Generics\Implicit,Explicit,Generics\obj\Debug\netcoreapp3.1\Implicit,Explicit,Generics.genruntimeconfig.cache
